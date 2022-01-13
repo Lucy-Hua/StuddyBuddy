@@ -8,7 +8,6 @@ Intuitive UI enabled a team of 35 Resident Advisors with varying technology comf
 **1. Load csv file: **
 
 Program will parse through raw file and organize infomation of interest
-
 <img src="assets/loadFile.png"/>
 
 **2. Select school term you are interested in: **
